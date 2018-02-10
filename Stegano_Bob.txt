@@ -1,0 +1,16 @@
+My friend  Bob  is  too  strong  at  programming,  he  knows all  the
+
+hash algorithms, he also knows  everything related  to  infosec which
+
+is his  best domain  in computer science. His  favorite game  is CTF,
+
+the game where there is challenges, and to solve them, you must find a
+
+flag which is  a  strange string  that  can't  be  bruteforced at  all.
+
+
+
+
+Read first word from lines and u get this 'My hash is the flag'
+Hash the text file with md5 and go flag it :-)
+~flag : eb4700bf2fa33f48cae8854a28e34488 
