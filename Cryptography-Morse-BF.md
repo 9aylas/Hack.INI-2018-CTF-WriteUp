@@ -13,11 +13,17 @@ PLUSLEFTBRACKETMINUSMINUSMINUSMINUSMINUSGREATERPLUSPLUSPLUSLESSERRIGHTBRACKETGRE
 
 -Read and translate it :
 -PLUS          +
+
 -LEFTBREACKET  {
+
 -MINUS         -
+
 -GREATER       >
+
 -LESSER        <
+
 -RIGHTBREAKET }
+
 -DOT           .
 
 
@@ -30,5 +36,6 @@ Hmmmm some of brainfuck , well in brainfuck 'Breacket' is forbeidden
 so we w'll replace leftbreacket with '[' and rightbreacker with ']'
 
 
+https://i.imgur.com/Am8M9n8.png
 
 -~flag is : g3t_br41n_fu**3d_x)
