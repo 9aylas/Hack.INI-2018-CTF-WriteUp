@@ -1,4 +1,4 @@
-Cryptography Challenge solution - Hack.ini - 2018
+Misc Challenge Solution - Hack.ini - 2018
 
 Solved by 9jg Team
 
